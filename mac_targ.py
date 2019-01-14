@@ -1,7 +1,7 @@
 
 #!/user/bin/python
 #function:get mac to db
-#date:
+#date:20190114
 #Arthor:Timbaland
 
 import  os
